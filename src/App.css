@@ -1,0 +1,7 @@
+.swiper-pagination-bullet {
+  background-color: white; /* Change this to the desired color */
+}
+
+.swiper-pagination-bullet-active {
+  background-color: white; /* Change this to the desired color for the active bullet */
+}
